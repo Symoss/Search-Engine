@@ -125,6 +125,3 @@ STATICFILES_DIRS = [
 
 STATIC_ROOT = BASE_DIR / "static"
 
-if DEBUG:
-    STATIC_ROOT.mkdir(parents=True, exist_ok=True)
-
