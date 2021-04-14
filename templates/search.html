@@ -1,0 +1,71 @@
+﻿{% load static %}
+<html>
+	<head>
+		<title>Etude Moteur de recherche</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{% static 'assets/css/main.css' %}">
+		<noscript><link rel="stylesheet" href="{% static 'assets/css/noscript.css' %}" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<a href="{% url 'search-engine' %}" class="logo"><strong>Etude</strong> <span>moteur de recherche</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="actions stacked">
+							<li><a href="{% url 'multi-sim' %}" class="button primary fit">Toutes les similaritées</a></li>
+						</ul>
+					</nav>
+
+				<!-- Banner -->
+					<section id="banner" class="major">
+						<div class="inner">
+							<form action="{% url 'search_result' %}" method="get">
+								<center>
+
+									<input name="query" type="text" placeholder="Chercher.." >
+
+									<p> Similaritées :
+
+									<input type="radio" id="cos" name="queryaff" value="cos" checked>
+									<label for="cos"> COS </label>
+
+									<input type="radio" id="dice" name="queryaff" value="dice">
+									<label for="dice" > DICE </label>
+
+									<input type="radio" id="jaccard" name="queryaff" value="jaccard">
+									<label for="jaccard" > JACCARD </label>
+
+									</p>
+								</center>
+							</form>
+							<div class="content" style="white-space: nowrap; white-space: pre;">
+									{% for doc, valeur in gab.items %}
+										{{ doc }}   >   [{{ valeur.0 }}]
+										{{ valeur.1 }}
+									{% endfor %}
+							</div>
+						</div>
+					</section>
+			</div>
+
+		<!-- Scripts -->
+			<script src="{% static 'assets/js/jquery.min.js' %}"></script>
+			<script src="{% static 'assets/js/jquery.scrolly.min.js' %}"></script>
+			<script src="{% static 'assets/js/jquery.scrollex.min.js' %}"></script>
+			<script src="{% static 'assets/js/browser.min.js' %}"></script>
+			<script src="{% static 'assets/js/breakpoints.min.js' %}"></script>
+			<script src="{% static 'assets/js/util.js' %}"></script>
+			<script src="{% static 'assets/js/main.js' %}"></script>
+	</body>
+</html>

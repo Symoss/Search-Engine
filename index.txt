@@ -1,0 +1,450 @@
+kabyl		doc1.txt : 0.00352		df : 1		
+chapel		doc1.txt : 0.00352		df : 1		
+quais		doc1.txt : 0.00352		df : 1		
+javel		doc1.txt : 0.00352		df : 1		
+homm		doc1.txt : 0.00246		doc5.txt : 0.00234		df : 2		
+pay		doc1.txt : 0.00704		df : 1		
+lointain		doc1.txt : 0.00352		df : 1		
+cobay		doc1.txt : 0.00352		df : 1		
+colon		doc1.txt : 0.00352		df : 1		
+doux		doc1.txt : 0.00352		df : 1		
+petit		doc1.txt : 0.01056		df : 1		
+musicien		doc1.txt : 0.00246		doc10.txt : 0.00813		df : 2		
+soleil		doc1.txt : 0.00246		doc9.txt : 0.00266		df : 2		
+adolescent		doc1.txt : 0.00352		df : 1		
+port		doc1.txt : 0.00492		doc5.txt : 0.00234		df : 2		
+ital		doc1.txt : 0.00352		df : 1		
+boumian		doc1.txt : 0.00352		df : 1		
+saint-ouen		doc1.txt : 0.00352		df : 1		
+apatrid		doc1.txt : 0.00352		df : 1		
+aubervilli		doc1.txt : 0.00352		df : 1		
+brûleur		doc1.txt : 0.00352		df : 1		
+grand		doc1.txt : 0.00368		doc5.txt : 0.00874		doc9.txt : 0.00199		df : 3		
+ordur		doc1.txt : 0.00352		df : 1		
+vill		doc1.txt : 0.00704		df : 1		
+paris		doc1.txt : 0.00352		df : 1		
+ébouillanteur		doc1.txt : 0.00352		df : 1		
+bêt		doc1.txt : 0.00352		df : 1		
+trouv		doc1.txt : 0.00352		df : 1		
+mort		doc1.txt : 0.00352		df : 1		
+pied		doc1.txt : 0.00184		doc6.txt : 0.0083		doc9.txt : 0.00795		df : 3		
+beau		doc1.txt : 0.00246		doc9.txt : 0.00266		df : 2		
+milieu		doc1.txt : 0.00352		df : 1		
+ru		doc1.txt : 0.00246		doc7.txt : 0.02016		df : 2		
+tunisien		doc1.txt : 0.00352		df : 1		
+grenel		doc1.txt : 0.00352		df : 1		
+embauch		doc1.txt : 0.00352		df : 1		
+débauch		doc1.txt : 0.00352		df : 1		
+manoeuvr		doc1.txt : 0.00352		df : 1		
+désoeuvr		doc1.txt : 0.00352		df : 1		
+polack		doc1.txt : 0.00352		df : 1		
+mar		doc1.txt : 0.00352		df : 1		
+templ		doc1.txt : 0.00352		df : 1		
+rosi		doc1.txt : 0.00352		df : 1		
+cordonni		doc1.txt : 0.00352		df : 1		
+cordou		doc1.txt : 0.00352		df : 1		
+souti		doc1.txt : 0.00352		df : 1		
+barcelon		doc1.txt : 0.00352		df : 1		
+pêcheur		doc1.txt : 0.00352		df : 1		
+baléar		doc1.txt : 0.00352		df : 1		
+bien		doc1.txt : 0.0014		doc10.txt : 0.00463		doc5.txt : 0.00133		doc9.txt : 0.00151		df : 4		
+finisterr		doc1.txt : 0.00352		df : 1		
+rescap		doc1.txt : 0.00352		df : 1		
+franco		doc1.txt : 0.00352		df : 1		
+déport		doc1.txt : 0.00352		df : 1		
+franc		doc1.txt : 0.00352		df : 1		
+navarr		doc1.txt : 0.00352		df : 1		
+avoir		doc1.txt : 0.00352		df : 1		
+défendu		doc1.txt : 0.00352		df : 1		
+souven		doc1.txt : 0.00352		df : 1		
+vôtr		doc1.txt : 0.00352		df : 1		
+libert		doc1.txt : 0.00352		df : 1		
+autr		doc1.txt : 0.00184		doc2.txt : 0.00212		doc5.txt : 0.00175		df : 3		
+esclav		doc1.txt : 0.00704		df : 1		
+noir		doc1.txt : 0.00492		doc3.txt : 0.00744		df : 2		
+fréjus		doc1.txt : 0.00704		df : 1		
+tiraill		doc1.txt : 0.00352		df : 1		
+parqu		doc1.txt : 0.00352		df : 1		
+bord		doc1.txt : 0.00352		df : 1		
+mer		doc1.txt : 0.00246		doc9.txt : 0.01329		df : 2		
+où		doc1.txt : 0.00352		df : 1		
+peu		doc1.txt : 0.00352		df : 1		
+baign		doc1.txt : 0.00352		df : 1		
+évoqu		doc1.txt : 0.00352		df : 1		
+chaqu		doc1.txt : 0.00352		df : 1		
+soir		doc1.txt : 0.00184		doc10.txt : 0.00608		doc5.txt : 0.00175		df : 3		
+local		doc1.txt : 0.00352		df : 1		
+disciplinair		doc1.txt : 0.00352		df : 1		
+vieil		doc1.txt : 0.00352		df : 1		
+boît		doc1.txt : 0.00352		df : 1		
+cigar		doc1.txt : 0.00352		df : 1		
+quelqu		doc1.txt : 0.00246		doc6.txt : 0.01109		df : 2		
+bout		doc1.txt : 0.00246		doc5.txt : 0.00234		df : 2		
+fil		doc1.txt : 0.00352		df : 1		
+fer		doc1.txt : 0.00246		doc9.txt : 0.01063		df : 2		
+tous		doc1.txt : 0.00212		doc2.txt : 0.00366		doc3.txt : 0.0032		doc5.txt : 0.00201		doc9.txt : 0.00114		df : 5		
+échos		doc1.txt : 0.00352		df : 1		
+villag		doc1.txt : 0.00352		df : 1		
+oiseau		doc1.txt : 0.00246		doc2.txt : 0.01415		df : 2		
+forêt		doc1.txt : 0.00352		df : 1		
+ven		doc1.txt : 0.00352		df : 1		
+capital		doc1.txt : 0.00352		df : 1		
+fêt		doc1.txt : 0.00352		df : 1		
+cadenc		doc1.txt : 0.00352		df : 1		
+pris		doc1.txt : 0.00246		doc5.txt : 0.00234		df : 2		
+bastill		doc1.txt : 0.00352		df : 1		
+quatorz		doc1.txt : 0.00352		df : 1		
+juillet		doc1.txt : 0.00352		df : 1		
+enfant		doc1.txt : 0.00552		doc2.txt : 0.02117		doc3.txt : 0.00556		df : 3		
+sénégal		doc1.txt : 0.00352		df : 1		
+dépatri		doc1.txt : 0.00352		df : 1		
+expatri		doc1.txt : 0.00352		df : 1		
+naturalis		doc1.txt : 0.00352		df : 1		
+indochinois		doc1.txt : 0.00352		df : 1		
+jongleur		doc1.txt : 0.00352		df : 1		
+innocent		doc1.txt : 0.00352		df : 1		
+couteau		doc1.txt : 0.00704		df : 1		
+vend		doc1.txt : 0.00352		df : 1		
+autrefois		doc1.txt : 0.00352		df : 1		
+terr		doc1.txt : 0.00492		doc9.txt : 0.01595		df : 2		
+caf		doc1.txt : 0.00352		df : 1		
+jol		doc1.txt : 0.00352		df : 1		
+dragon		doc1.txt : 0.00352		df : 1		
+or		doc1.txt : 0.00246		doc5.txt : 0.00234		df : 2		
+fait		doc1.txt : 0.00246		doc5.txt : 0.00234		df : 2		
+papi		doc1.txt : 0.00704		df : 1		
+pli		doc1.txt : 0.00352		df : 1		
+trop		doc1.txt : 0.00246		doc10.txt : 0.01626		df : 2		
+tôt		doc1.txt : 0.00352		df : 1		
+si		doc1.txt : 0.00738		doc6.txt : 0.01109		df : 2		
+vit		doc1.txt : 0.00352		df : 1		
+allé		doc1.txt : 0.00352		df : 1		
+dorm		doc1.txt : 0.00352		df : 1		
+aujourd		doc1.txt : 0.00352		df : 1		
+hui		doc1.txt : 0.00352		df : 1		
+retour		doc1.txt : 0.00352		df : 1		
+visag		doc1.txt : 0.00184		doc10.txt : 0.00608		doc3.txt : 0.00556		df : 3		
+bomb		doc1.txt : 0.00352		df : 1		
+incendiair		doc1.txt : 0.00352		df : 1		
+labour		doc1.txt : 0.00352		df : 1		
+rizi		doc1.txt : 0.00352		df : 1		
+a		doc1.txt : 0.00109		doc10.txt : 0.0036		doc2.txt : 0.00125		doc5.txt : 0.00311		doc7.txt : 0.00149		doc8.txt : 0.00815		doc9.txt : 0.00294		df : 7		
+renvoi		doc1.txt : 0.00352		df : 1		
+monnai		doc1.txt : 0.00352		df : 1		
+dor		doc1.txt : 0.00246		doc9.txt : 0.00266		df : 2		
+retourn		doc1.txt : 0.00352		df : 1		
+dos		doc1.txt : 0.00352		df : 1		
+étrang		doc1.txt : 0.00246		doc6.txt : 0.06657		df : 2		
+étranger		doc1.txt : 0.00352		df : 1		
+vi		doc1.txt : 0.00246		doc4.txt : 0.01664		df : 2		
+mal		doc1.txt : 0.00352		df : 1		
+viv		doc1.txt : 0.00352		df : 1		
+mour		doc1.txt : 0.00352		df : 1		
+tendr		doc10.txt : 0.01163		df : 1		
+danger		doc10.txt : 0.01163		df : 1		
+amour		doc10.txt : 0.02326		df : 1		
+apparu		doc10.txt : 0.01163		df : 1		
+apres		doc10.txt : 0.01163		df : 1		
+long		doc10.txt : 0.01163		df : 1		
+jour		doc10.txt : 0.00813		doc5.txt : 0.00234		df : 2		
+peut-êtr		doc10.txt : 0.02438		doc5.txt : 0.00701		df : 2		
+archer		doc10.txt : 0.01163		df : 1		
+arc		doc10.txt : 0.01163		df : 1		
+harp		doc10.txt : 0.01163		df : 1		
+sais		doc10.txt : 0.02432		doc5.txt : 0.00175		doc8.txt : 0.01835		df : 3		
+plus		doc10.txt : 0.0035		doc4.txt : 0.00717		doc5.txt : 0.00302		doc6.txt : 0.00478		doc9.txt : 0.00114		df : 5		
+rien		doc10.txt : 0.0035		doc2.txt : 0.00122		doc5.txt : 0.00201		doc6.txt : 0.00478		doc8.txt : 0.00528		df : 5		
+tout		doc10.txt : 0.00516		doc2.txt : 0.0009		doc3.txt : 0.00472		doc5.txt : 0.00148		doc7.txt : 0.00427		doc9.txt : 0.00759		df : 6		
+bless		doc10.txt : 0.03488		df : 1		
+flech		doc10.txt : 0.01163		df : 1		
+chanson		doc10.txt : 0.00813		doc2.txt : 0.00283		df : 2		
+coeur		doc10.txt : 0.00608		doc3.txt : 0.00556		doc7.txt : 0.00503		df : 3		
+toujour		doc10.txt : 0.01163		df : 1		
+brûl		doc10.txt : 0.02326		df : 1		
+blessur		doc10.txt : 0.01163		df : 1		
+deux		doc2.txt : 0.03644		df : 1		
+quatr		doc2.txt : 0.04049		df : 1		
+huit		doc2.txt : 0.04453		df : 1		
+font		doc2.txt : 0.02429		df : 1		
+seize…		doc2.txt : 0.0081		df : 1		
+répet		doc2.txt : 0.0081		df : 1		
+dit		doc2.txt : 0.00322		doc3.txt : 0.01693		doc5.txt : 0.00133		doc6.txt : 0.0379		df : 4		
+maîtr		doc2.txt : 0.00566		doc3.txt : 0.00744		df : 2		
+voilà		doc2.txt : 0.00283		doc5.txt : 0.00234		df : 2		
+oiseau-lyr		doc2.txt : 0.0081		df : 1		
+pass		doc2.txt : 0.00283		doc7.txt : 0.00672		df : 2		
+ciel		doc2.txt : 0.00405		df : 1		
+voit		doc2.txt : 0.00283		doc4.txt : 0.01664		df : 2		
+entend		doc2.txt : 0.00405		df : 1		
+appel		doc2.txt : 0.00212		doc5.txt : 0.00175		doc8.txt : 0.01835		df : 3		
+sauve-moi		doc2.txt : 0.00405		df : 1		
+jou		doc2.txt : 0.02024		df : 1		
+alor		doc2.txt : 0.00212		doc7.txt : 0.00503		doc9.txt : 0.00199		df : 3		
+descend		doc2.txt : 0.00405		df : 1		
+quatre…		doc2.txt : 0.00405		df : 1		
+lui…		doc2.txt : 0.00405		df : 1		
+seiz		doc2.txt : 0.02024		df : 1		
+est-ce		doc2.txt : 0.00283		doc5.txt : 0.00468		df : 2		
+surtout		doc2.txt : 0.00405		df : 1		
+trente-d		doc2.txt : 0.00405		df : 1		
+façon		doc2.txt : 0.00405		df : 1		
+vont		doc2.txt : 0.00849		doc7.txt : 0.00672		df : 2		
+cach		doc2.txt : 0.00405		df : 1		
+pupitr		doc2.txt : 0.0081		df : 1		
+entendent		doc2.txt : 0.0081		df : 1		
+musiqu		doc2.txt : 0.00566		doc5.txt : 0.00234		df : 2		
+tour		doc2.txt : 0.0081		df : 1		
+fichent		doc2.txt : 0.00405		df : 1		
+camp		doc2.txt : 0.00405		df : 1		
+ni		doc2.txt : 0.0081		df : 1		
+égal		doc2.txt : 0.00405		df : 1		
+chant		doc2.txt : 0.00405		df : 1		
+professeur		doc2.txt : 0.00283		doc3.txt : 0.00744		df : 2		
+cri		doc2.txt : 0.00405		df : 1		
+quand		doc2.txt : 0.00405		df : 1		
+fin		doc2.txt : 0.00283		doc5.txt : 0.00468		df : 2		
+fair		doc2.txt : 0.00283		doc5.txt : 0.00468		df : 2		
+pitr		doc2.txt : 0.00405		df : 1		
+écoutent		doc2.txt : 0.00405		df : 1		
+mur		doc2.txt : 0.00405		df : 1		
+class		doc2.txt : 0.00405		df : 1		
+écroulent		doc2.txt : 0.00405		df : 1		
+tranquill		doc2.txt : 0.00283		doc5.txt : 0.00234		df : 2		
+vitr		doc2.txt : 0.00405		df : 1		
+redeviennent		doc2.txt : 0.0081		df : 1		
+sabl		doc2.txt : 0.00405		df : 1		
+encre		doc2.txt : 0.00405		df : 1		
+redevient		doc2.txt : 0.01215		df : 1		
+eau		doc2.txt : 0.00283		doc7.txt : 0.00672		df : 2		
+arbre		doc2.txt : 0.00405		df : 1		
+crai		doc2.txt : 0.00283		doc3.txt : 0.00744		df : 2		
+falais		doc2.txt : 0.00405		df : 1		
+porte-plum		doc2.txt : 0.00405		df : 1		
+non		doc3.txt : 0.01487		doc4.txt : 0.01664		df : 2		
+têt		doc3.txt : 0.00744		doc5.txt : 0.00234		df : 2		
+oui		doc3.txt : 0.01487		doc5.txt : 0.00234		df : 2		
+aim		doc3.txt : 0.00556		doc4.txt : 0.0498		doc8.txt : 0.00917		df : 3		
+debout		doc3.txt : 0.01064		df : 1		
+question		doc3.txt : 0.01064		df : 1		
+problem		doc3.txt : 0.01064		df : 1		
+pos		doc3.txt : 0.01064		df : 1		
+soudain		doc3.txt : 0.00744		doc9.txt : 0.00266		df : 2		
+fou		doc3.txt : 0.01064		df : 1		
+rir		doc3.txt : 0.01064		df : 1		
+prend		doc3.txt : 0.01064		df : 1		
+effac		doc3.txt : 0.00744		doc7.txt : 0.00672		df : 2		
+chiffr		doc3.txt : 0.01064		df : 1		
+mot		doc3.txt : 0.00744		doc5.txt : 0.00935		df : 2		
+dat		doc3.txt : 0.01064		df : 1		
+nom		doc3.txt : 0.00744		doc5.txt : 0.00468		df : 2		
+phras		doc3.txt : 0.01064		df : 1		
+pieg		doc3.txt : 0.01064		df : 1		
+malgr		doc3.txt : 0.01064		df : 1		
+menac		doc3.txt : 0.01064		df : 1		
+sous		doc3.txt : 0.01064		df : 1		
+hu		doc3.txt : 0.01064		df : 1		
+prodig		doc3.txt : 0.01064		df : 1		
+couleur		doc3.txt : 0.01064		df : 1		
+tableau		doc3.txt : 0.01064		df : 1		
+malheur		doc3.txt : 0.01064		df : 1		
+dessin		doc3.txt : 0.01064		df : 1		
+bonheur		doc3.txt : 0.01064		df : 1		
+regard		doc4.txt : 0.09524		df : 1		
+cel		doc4.txt : 0.01245		doc5.txt : 0.00175		doc6.txt : 0.0083		df : 3		
+seul		doc4.txt : 0.02381		df : 1		
+ceux		doc4.txt : 0.02381		df : 1		
+donnent		doc4.txt : 0.02381		df : 1		
+droit		doc4.txt : 0.02381		df : 1		
+interd		doc5.txt : 0.00334		df : 1		
+vingt-quatr		doc5.txt : 0.00334		df : 1		
+heur		doc5.txt : 0.00334		df : 1		
+ça		doc5.txt : 0.00669		df : 1		
+tort		doc5.txt : 0.00234		doc9.txt : 0.00266		df : 2		
+hi		doc5.txt : 0.00334		df : 1		
+hindou		doc5.txt : 0.00334		df : 1		
+amnes		doc5.txt : 0.00334		df : 1		
+mis		doc5.txt : 0.00234		doc9.txt : 0.00532		df : 2		
+souvenir		doc5.txt : 0.01003		df : 1		
+gross		doc5.txt : 0.00669		df : 1		
+boul		doc5.txt : 0.01003		df : 1		
+roul		doc5.txt : 0.00234		doc9.txt : 0.00532		df : 2		
+fond		doc5.txt : 0.00468		doc9.txt : 0.00266		df : 2		
+corridor		doc5.txt : 0.00334		df : 1		
+puis		doc5.txt : 0.00468		doc9.txt : 0.00266		df : 2		
+escali		doc5.txt : 0.00334		df : 1		
+dégringol		doc5.txt : 0.00334		df : 1		
+renvers		doc5.txt : 0.00334		df : 1		
+monsieur		doc5.txt : 0.00669		df : 1		
+dev		doc5.txt : 0.00234		doc9.txt : 0.00266		df : 2		
+log		doc5.txt : 0.00334		df : 1		
+concierg		doc5.txt : 0.00334		df : 1		
+voul		doc5.txt : 0.00234		doc9.txt : 0.00532		df : 2		
+dir		doc5.txt : 0.00175		doc6.txt : 0.0166		doc7.txt : 0.00503		df : 3		
+rentr		doc5.txt : 0.00334		df : 1		
+jet		doc5.txt : 0.00234		doc7.txt : 0.00672		df : 2		
+plac		doc5.txt : 0.00334		df : 1		
+sien		doc5.txt : 0.00334		df : 1		
+mainten		doc5.txt : 0.01003		df : 1		
+bon		doc5.txt : 0.00234		doc8.txt : 0.01226		df : 2		
+pet		doc5.txt : 0.00468		doc9.txt : 0.00266		df : 2		
+temp		doc5.txt : 0.00334		df : 1		
+souvien		doc5.txt : 0.00669		df : 1		
+part		doc5.txt : 0.00234		doc9.txt : 0.00266		df : 2		
+sanglot		doc5.txt : 0.00334		df : 1		
+tomb		doc5.txt : 0.00334		df : 1		
+grand-per		doc5.txt : 0.00334		df : 1		
+paternel		doc5.txt : 0.00334		df : 1		
+judici		doc5.txt : 0.00334		df : 1		
+éleveur		doc5.txt : 0.00334		df : 1		
+sauterel		doc5.txt : 0.00334		df : 1		
+val		doc5.txt : 0.00334		df : 1		
+chos		doc5.txt : 0.00468		doc6.txt : 0.01109		df : 2		
+peur		doc5.txt : 0.00234		doc9.txt : 0.00266		df : 2		
+bretel		doc5.txt : 0.00334		df : 1		
+mauv		doc5.txt : 0.01003		df : 1		
+femm		doc5.txt : 0.00334		df : 1		
+vaurien		doc5.txt : 0.00334		df : 1		
+saurien		doc5.txt : 0.00669		df : 1		
+crois		doc5.txt : 0.00334		df : 1		
+futil		doc5.txt : 0.00334		df : 1		
+tiroir		doc5.txt : 0.00334		df : 1		
+miet		doc5.txt : 0.00334		df : 1		
+gravat		doc5.txt : 0.00334		df : 1		
+mémoir		doc5.txt : 0.01338		df : 1		
+con		doc5.txt : 0.00334		df : 1		
+histoir		doc5.txt : 0.00334		df : 1		
+comment		doc5.txt : 0.00334		df : 1		
+est-el		doc5.txt : 0.00334		df : 1		
+quoi		doc5.txt : 0.00669		df : 1		
+a-t-el		doc5.txt : 0.00334		df : 1		
+air		doc5.txt : 0.00669		df : 1		
+aura-t-el		doc5.txt : 0.00334		df : 1		
+tard		doc5.txt : 0.00234		doc7.txt : 0.00672		df : 2		
+vert		doc5.txt : 0.00334		df : 1		
+vacanc		doc5.txt : 0.00334		df : 1		
+devenu		doc5.txt : 0.00334		df : 1		
+pani		doc5.txt : 0.00334		df : 1		
+osi		doc5.txt : 0.00334		df : 1		
+sangl		doc5.txt : 0.00334		df : 1		
+mond		doc5.txt : 0.00334		df : 1		
+assassin		doc5.txt : 0.00334		df : 1		
+dedan		doc5.txt : 0.00334		df : 1		
+étiquet		doc5.txt : 0.00334		df : 1		
+haut		doc5.txt : 0.00334		df : 1		
+bas		doc5.txt : 0.00334		df : 1		
+fragil		doc5.txt : 0.00334		df : 1		
+lettr		doc5.txt : 0.00334		df : 1		
+roug		doc5.txt : 0.00334		df : 1		
+bleu		doc5.txt : 0.00334		df : 1		
+pourquoi		doc5.txt : 0.00234		doc8.txt : 0.01226		df : 2		
+enfin		doc5.txt : 0.00334		df : 1		
+gris		doc5.txt : 0.00334		df : 1		
+ros		doc5.txt : 0.00334		df : 1		
+puisqu		doc5.txt : 0.00334		df : 1		
+choix		doc5.txt : 0.00334		df : 1		
+être		doc6.txt : 0.03175		df : 1		
+ange		doc6.txt : 0.06349		df : 1		
+trân		doc6.txt : 0.03175		df : 1		
+veut		doc6.txt : 0.03175		df : 1		
+hauss		doc6.txt : 0.01587		df : 1		
+ail		doc6.txt : 0.01587		df : 1		
+pourt		doc6.txt : 0.01587		df : 1		
+tap		doc6.txt : 0.01587		df : 1		
+vous-mêm		doc6.txt : 0.01587		df : 1		
+envol		doc6.txt : 0.01587		df : 1		
+sal		doc7.txt : 0.00962		df : 1		
+excus		doc7.txt : 0.00962		df : 1		
+homme-sandwich		doc7.txt : 0.00962		df : 1		
+don		doc7.txt : 0.00672		doc8.txt : 0.01226		df : 2		
+prospectus		doc7.txt : 0.00962		df : 1		
+armé		doc7.txt : 0.00962		df : 1		
+salut		doc7.txt : 0.00962		df : 1		
+là		doc7.txt : 0.00962		df : 1		
+froiss		doc7.txt : 0.00962		df : 1		
+ruisseau		doc7.txt : 0.00962		df : 1		
+coul		doc7.txt : 0.00962		df : 1		
+pardonnez-moi		doc7.txt : 0.00962		df : 1		
+cet		doc7.txt : 0.00962		df : 1		
+offens		doc7.txt : 0.00962		df : 1		
+éboueur		doc7.txt : 0.01923		df : 1		
+valet		doc7.txt : 0.00962		df : 1		
+mécan		doc7.txt : 0.00962		df : 1		
+salu		doc7.txt : 0.01344		doc9.txt : 0.00266		df : 2		
+plein		doc7.txt : 0.01923		df : 1		
+ogress		doc7.txt : 0.00962		df : 1		
+charm		doc7.txt : 0.00962		df : 1		
+comm		doc7.txt : 0.00962		df : 1		
+cont		doc7.txt : 0.00962		df : 1		
+chinois		doc7.txt : 0.00962		df : 1		
+plantent		doc7.txt : 0.00962		df : 1		
+épé		doc7.txt : 0.00962		df : 1		
+cristal		doc7.txt : 0.00962		df : 1		
+plais		doc7.txt : 0.00962		df : 1		
+plai		doc7.txt : 0.00962		df : 1		
+heureux		doc7.txt : 0.00962		df : 1		
+des		doc7.txt : 0.00962		df : 1		
+râc		doc7.txt : 0.00962		df : 1		
+appellent		doc8.txt : 0.01754		df : 1		
+bienvenu		doc8.txt : 0.01754		df : 1		
+désir		doc8.txt : 0.01754		df : 1		
+destin		doc8.txt : 0.01754		df : 1		
+nom-là		doc8.txt : 0.01754		df : 1		
+chanc		doc8.txt : 0.01754		df : 1		
+pu		doc8.txt : 0.01754		df : 1		
+mauvais		doc8.txt : 0.01754		df : 1		
+grain		doc8.txt : 0.01754		df : 1		
+détest		doc8.txt : 0.01754		df : 1		
+mépris		doc8.txt : 0.01754		df : 1		
+perdu		doc8.txt : 0.01754		df : 1		
+jam		doc8.txt : 0.01754		df : 1		
+sort		doc9.txt : 0.0038		df : 1		
+écol		doc9.txt : 0.0038		df : 1		
+rencontr		doc9.txt : 0.01521		df : 1		
+chemin		doc9.txt : 0.01521		df : 1		
+emmen		doc9.txt : 0.0038		df : 1		
+autour		doc9.txt : 0.02662		df : 1		
+wagon		doc9.txt : 0.0038		df : 1		
+promen		doc9.txt : 0.0038		df : 1		
+coquillag		doc9.txt : 0.0038		df : 1		
+île		doc9.txt : 0.0038		df : 1		
+parfum		doc9.txt : 0.0038		df : 1		
+naufrag		doc9.txt : 0.0038		df : 1		
+saumon		doc9.txt : 0.0038		df : 1		
+fum		doc9.txt : 0.0038		df : 1		
+au-dessus		doc9.txt : 0.0038		df : 1		
+lun		doc9.txt : 0.0076		df : 1		
+étoil		doc9.txt : 0.0076		df : 1		
+bateau		doc9.txt : 0.0076		df : 1		
+voil		doc9.txt : 0.0076		df : 1		
+japon		doc9.txt : 0.0038		df : 1		
+trois		doc9.txt : 0.0038		df : 1		
+mousquetair		doc9.txt : 0.0038		df : 1		
+cinq		doc9.txt : 0.0038		df : 1		
+doigt		doc9.txt : 0.0038		df : 1		
+main		doc9.txt : 0.0038		df : 1		
+tourn		doc9.txt : 0.0038		df : 1		
+manivel		doc9.txt : 0.0038		df : 1		
+sous-marin		doc9.txt : 0.0038		df : 1		
+plong		doc9.txt : 0.0038		df : 1		
+cherch		doc9.txt : 0.0038		df : 1		
+oursin		doc9.txt : 0.0038		df : 1		
+reven		doc9.txt : 0.0038		df : 1		
+voi		doc9.txt : 0.0076		df : 1		
+maison		doc9.txt : 0.0076		df : 1		
+fui		doc9.txt : 0.01521		df : 1		
+hiv		doc9.txt : 0.0076		df : 1		
+attrap		doc9.txt : 0.0038		df : 1		
+derri		doc9.txt : 0.0038		df : 1		
+écras		doc9.txt : 0.0038		df : 1		
+arrêt		doc9.txt : 0.0038		df : 1		
+printemp		doc9.txt : 0.0038		df : 1		
+garde-barri		doc9.txt : 0.0038		df : 1		
+remerci		doc9.txt : 0.0038		df : 1		
+fleur		doc9.txt : 0.0038		df : 1		
+pouss		doc9.txt : 0.0076		df : 1		
+traver		doc9.txt : 0.0038		df : 1		
+avanc		doc9.txt : 0.0038		df : 1		
+abîm		doc9.txt : 0.0038		df : 1		
+revenu		doc9.txt : 0.0038		df : 1		
+cheval		doc9.txt : 0.0038		df : 1		
+voitur		doc9.txt : 0.0038		df : 1		

@@ -1,0 +1,75 @@
+﻿{% load static %}
+<html>
+	<head>
+		<title>Etude Moteur de recherche</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="{% static 'assets/css/main.css' %}">
+		<noscript><link rel="stylesheet" href="{% static 'assets/css/noscript.css' %}" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<a href="{% url 'search-engine' %}" class="logo"><strong>Etude</strong> <span>moteur de recherche</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="actions stacked">
+							<li><a href="{% url 'multi-sim' %}" class="button primary fit">Toutes les similaritées</a></li>
+						</ul>
+					</nav>
+
+				<!-- Banner -->
+					<section id="banner" class="major">
+						<div class="inner">
+							<form action="{% url 'SIMS' %}" method="get">
+								<center>
+									<input name="query" type="text" placeholder="Chercher.." >
+								</center>
+							</form>
+							<div class="content">
+								<table>
+                                    <tbody>
+                                        <tr>
+                                            <td>COS</td>
+                                        {% for sim in COS %}
+                                                <td>{{sim}}</td>
+                                        {% endfor %}
+                                        </tr>
+                                        <tr>
+                                            <td>DICE</td>
+                                        {% for sim in DICE %}
+                                                <td>{{sim}}</td>
+                                        {% endfor %}
+                                        </tr>
+                                        <tr>
+                                            <td>JACCARD</td>
+                                        {% for sim in JACCARD %}
+                                                <td>{{sim}}</td>
+                                        {% endfor %}
+                                        </tr>
+                                    </tbody>
+                            </table>
+							</div>
+						</div>
+					</section>
+			</div>
+
+		<!-- Scripts -->
+			<script src="{% static 'assets/js/jquery.min.js' %}"></script>
+			<script src="{% static 'assets/js/jquery.scrolly.min.js' %}"></script>
+			<script src="{% static 'assets/js/jquery.scrollex.min.js' %}"></script>
+			<script src="{% static 'assets/js/browser.min.js' %}"></script>
+			<script src="{% static 'assets/js/breakpoints.min.js' %}"></script>
+			<script src="{% static 'assets/js/util.js' %}"></script>
+			<script src="{% static 'assets/js/main.js' %}"></script>
+	</body>
+</html>
