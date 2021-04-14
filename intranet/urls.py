@@ -16,8 +16,3 @@ urlpatterns = [
     path('search/', views.SearchPage, name='search_result'),  # association between the search bar, similarities AND the search page function
     path('sim/', views.allsimilarities, name='SIMS'),  # association between the search bar AND the SIMS function
 ]
-
-# in case of debugging django adds the static and media settings urls
-if settings.DEBUG:
-    urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
-    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
